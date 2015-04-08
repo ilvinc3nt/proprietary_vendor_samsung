@@ -18,4 +18,4 @@
 PRODUCT_PACKAGES += \
     com.qualcomm.location
 
-$(call inherit-product, vendor/samsung/klteusc/klteusc-vendor-blobs.mk)
+$(call inherit-product, vendor/samsung/kltencg/kltencg-vendor-blobs.mk)

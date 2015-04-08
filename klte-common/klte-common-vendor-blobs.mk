@@ -254,11 +254,11 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/klte-common/proprietary/lib/hw/sensors.msm8974.so:system/lib/hw/sensors.msm8974.so \
     vendor/samsung/klte-common/proprietary/lib/hw/sensorhubs.msm8974.so:system/lib/hw/sensorhubs.msm8974.so \
     vendor/samsung/klte-common/proprietary/bin/time_daemon:system/bin/time_daemon \
-    vendor/samsung/klte-common/proprietary/lib/libTimeService.so:system/lib/libTimeService.so \
     vendor/samsung/klte-common/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin \
     vendor/samsung/klte-common/proprietary/etc/wifi/bcmdhd_mfg.bin:system/etc/wifi/bcmdhd_mfg.bin \
     vendor/samsung/klte-common/proprietary/etc/wifi/bcmdhd_sta.bin:system/etc/wifi/bcmdhd_sta.bin \
     vendor/samsung/klte-common/proprietary/etc/wifi/cred.conf:system/etc/wifi/cred.conf \
     vendor/samsung/klte-common/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
     vendor/samsung/klte-common/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
-    vendor/samsung/klte-common/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf
+    vendor/samsung/klte-common/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
+    vendor/samsung/klte-common/proprietary/lib/libTimeService.so:system/lib/libTimeService.so
